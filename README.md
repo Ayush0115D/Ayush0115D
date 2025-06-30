@@ -1,8 +1,5 @@
 # Hi there, I'm Ayush Dhakre! 👋
 
-🎓 **B.Tech Student, ECE Branch**  
-💻 **Passionate Coder & Web Developer**
-
 ---
 
 ## 🚀 About Me
@@ -21,7 +18,7 @@ I'm a B.Tech student specializing in Electronics and Communication Engineering, 
 
 ## 🌟 Projects I’m Proud Of
 
-- [Preprise](preprise-website.vercel.app) — My favorite project!
+- [Preprise](https://preprise-website.vercel.app/) — My favorite project!
 - [My Portfolio](https://ayushdhakre.vercel.app/) — Showcasing my work and journey.
 - [ReduxToolkit Todo App](https://github.com/Ayush0115D/reduxToolkitTodo) — A productivity-focused todo app using ReduxToolkit.
 - [JAVA Questions](https://github.com/Ayush0115D/JAVA) — A curated collection of Java programming questions.
