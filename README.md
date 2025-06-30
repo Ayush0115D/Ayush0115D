@@ -21,9 +21,9 @@ I'm a B.Tech student specializing in Electronics and Communication Engineering, 
 
 ## 🌟 Projects I’m Proud Of
 
-- [Preprise](https://github.com/Ayush0115D/Preprise) — My favorite project!
+- [Preprise](preprise-website.vercel.app) — My favorite project!
 - [My Portfolio](https://ayushdhakre.vercel.app/) — Showcasing my work and journey.
-- [Redux Todo App](https://github.com/Ayush0115D/Redux-Todo-App) — A productivity-focused todo app using Redux.
+- [ReduxToolkit Todo App](https://github.com/Ayush0115D/reduxToolkitTodo) — A productivity-focused todo app using ReduxToolkit.
 - [JAVA Questions](https://github.com/Ayush0115D/JAVA) — A curated collection of Java programming questions.
 
 ---
@@ -35,8 +35,5 @@ I'm a B.Tech student specializing in Electronics and Communication Engineering, 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
 
 **Thanks for visiting my profile! Let's connect, collaborate, and build something amazing together.** 🚀
