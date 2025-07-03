@@ -1,10 +1,10 @@
-# Hi there, I'm Ayush Dhakre! 👋
+# Hey there, I'm Ayush Dhakre! 👋
 
 ---
 
 ## 🚀 About Me
 
-I'm a B.Tech student specializing in Electronics and Communication Engineering, but my true passion lies in coding and building creative web projects. I love turning ideas into reality through code and constantly learning new technologies to sharpen my skills.
+I'm a B.Tech student in Electronics and Communication Engineering, but my true passion lies in coding and building creative web projects. I love turning ideas into reality through code and constantly learning new technologies to sharpen my skills.
 
 ---
 
@@ -27,8 +27,7 @@ I'm a B.Tech student specializing in Electronics and Communication Engineering, 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ayushdhakre/)
-- [Personal Website](https://ayushdhakre.vercel.app/)
+<p align="left"> <a href="https://www.linkedin.com/in/ayushdhakre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://ayushdhakre.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" /> </a> </p>
 
 ---
 
