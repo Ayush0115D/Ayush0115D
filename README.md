@@ -42,9 +42,9 @@ I'm a B.Tech student in Electronics and Communication Engineering, but my true p
 
 ## 🌟 My Projects
 
-- [Preprise](https://preprise-website.vercel.app/) — My favorite project!
+- [Lost&Found](https://github.com/Ayush0115D/Lost-Found) — My favorite project!
 - [My Portfolio](https://ayushdhakre.vercel.app/) — Showcasing my work and journey.
-- [ReduxToolkit Todo App](https://github.com/Ayush0115D/reduxToolkitTodo) — A productivity-focused todo app using ReduxToolkit.
+- [Prep&Rise](https://preprise-website.vercel.app)- A interview website with ai voice agent using next.js
 - [JAVA Questions](https://github.com/Ayush0115D/JAVA) — A curated collection of Java programming questions.
 
 ---
