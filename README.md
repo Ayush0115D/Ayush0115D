@@ -28,6 +28,8 @@ I'm a B.Tech student in Electronics and Communication Engineering, but my true p
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Authentication-3DDC84?style=for-the-badge&logo=auth0&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Authorization-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   </p>
 
 - 🧰 **Tools & Platforms**:
@@ -42,7 +44,7 @@ I'm a B.Tech student in Electronics and Communication Engineering, but my true p
 
 ## 🌟 My Projects
 
-- [Lost&Found](https://github.com/Ayush0115D/Lost-Found) — My favorite project!
+- [Lost&Found](https://lost-found-dmrc.vercel.app) — My favorite project!
 - [My Portfolio](https://ayushdhakre.vercel.app/) — Showcasing my work and journey.
 - [Prep&Rise](https://preprise-website.vercel.app)- A interview website with ai voice agent using next.js
 - [JAVA Questions](https://github.com/Ayush0115D/JAVA) — A curated collection of Java programming questions.
