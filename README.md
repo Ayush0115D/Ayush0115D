@@ -42,12 +42,12 @@ I'm a B.Tech student in Electronics and Communication Engineering, but my true p
 
 ---
 
-## 🌟 My Projects
-
-- [Lost&Found](https://lost-found-dmrc.vercel.app) — My favorite project!
+## 🚀 Featured Projects
+- [Mind-Space](https://mind-space-web.vercel.app) — My favourite project!
+- [Lost&Found](https://lost-found-dmrc.vercel.app) — My Internship project
 - [My Portfolio](https://ayushdhakre.vercel.app/) — Showcasing my work and journey.
 - [Prep&Rise](https://preprise-website.vercel.app)- A interview website with ai voice agent using next.js
-- [JAVA Questions](https://github.com/Ayush0115D/JAVA) — A curated collection of Java programming questions.
+- [DSA Questions](https://github.com/Ayush0115D/DSA-QUESTIONS) — A curated collection of Java programming questions.
 
 ---
 
